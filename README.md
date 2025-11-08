@@ -1,1 +1,1 @@
-# Computer-Vision-Hub
+# Computer Vision Hub
